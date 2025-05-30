@@ -1,0 +1,20 @@
+{
+    "name": "ccxc-admin-plugin",
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "node build.js",
+        "build:f": "node build.js frontend",
+        "build:b": "node build.js backend"
+    },
+    "peerDependencies": {
+        "ant-design-vue": "^4.2.6",
+        "vue": "^3.5.13"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-vue": "^5.2.3",
+        "vite": "^6.3.5",
+        "vite-plugin-lib-inject-css": "^2.2.2"
+    }
+} 

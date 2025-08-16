@@ -1,6 +1,6 @@
 {
     "name": "create-ccxc-admin-template",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "type": "module",
     "description": "Interactive template generator for CCXC Engine admin plugins",
     "keywords": [
